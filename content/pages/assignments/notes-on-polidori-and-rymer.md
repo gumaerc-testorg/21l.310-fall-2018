@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 48523263-ace3-759d-1352-45e0b86bebb9
 title: Notes on Polidori and Rymer
 uid: f5a83161-56c0-1975-02c9-e92be3dac839
