@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: An extract from Lord Byron's "The Giaour."
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

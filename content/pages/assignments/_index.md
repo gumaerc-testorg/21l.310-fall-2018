@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Two written essay assignments for 21L.210 Bestsellers: Out for the Count.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,7 +25,7 @@ If we were creating pirate characters, we would need to be aware of the conventi
 
 If a busy writer were sitting at his or her desk in 1870 trying to create an utterly conventional vampire fictional story, what characteristics would they use give such a creation, based on their previous reading? Remember, aspects such as character, setting, dialogue and story-line would all come in. Remember too that you are approaching this task as a scholar, a dispassionate observer: you are to describe the phenomenon, not attempt to write fiction for yourself.
 
-You may wish to read the [guidance notes on Polidori and Rymer]({{< baseurl >}}/pages/assignments/notes-on-polidori-and-rymer) for this essay.
+You may wish to read the {{% resource_link f5a83161-56c0-1975-02c9-e92be3dac839 "guidance notes on Polidori and Rymer" %}} for this essay.
 
 Essay #2: Vampire Fiction: Its Growth
 -------------------------------------

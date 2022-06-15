@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Reading guide for Christopher Frayling''s Vampyres: Lord Byron to Count
+  Dracula.'
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

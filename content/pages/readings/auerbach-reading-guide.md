@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Reading guide for Nina Auerbach's Our Vampires, Ourselves.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

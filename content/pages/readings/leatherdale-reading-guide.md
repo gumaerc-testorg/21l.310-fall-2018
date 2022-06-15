@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Reading guide for Clive Leatherdale''s Dracula: The Novel and the Legend:
+  A Study of Bram Stoker''s Gothic Masterpiece.'
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Class notes discussing some of the things we have meant when using the
+  innocent-seeming term "popular culture."     '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

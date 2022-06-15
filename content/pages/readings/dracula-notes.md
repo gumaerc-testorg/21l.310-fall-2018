@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Reading guide for the Norton Critical Edition of Dracula.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

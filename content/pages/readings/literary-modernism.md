@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "Reading guide for Malcom Bradbury and James McFarlane's Modernism: A\
+  \ Guide to European Literature 1890\u20131930."
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
