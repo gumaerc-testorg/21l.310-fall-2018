@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Required and supplemental readings including vampire fiction and literary
+  analyses.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
 ---
@@ -41,13 +46,13 @@ No assigned readings
 {{< tdopen >}}
 
 
- Vampyres: Lord Byron to Count Dracula. Faber & Faber, 1992. ISBN: 9780571167920. [Frayling Reading Guide.]({{< baseurl >}}/pages/readings/frayling-reading-guide)
+ Vampyres: Lord Byron to Count Dracula. Faber & Faber, 1992. ISBN: 9780571167920. {{% resource_link a23bdac4-3267-b3f3-59b1-f23f1dde25c2 "Frayling Reading Guide." %}}
 
-Leatherdale, Clive. _Dracula: The Novel and the Legend: A Study of Bram Stoker's Gothic Masterpiece_. Aquarian Press, 1985. ISBN: 9780850303834. [Leatherdale Reading Guide.]({{< baseurl >}}/pages/readings/leatherdale-reading-guide)
+Leatherdale, Clive. _Dracula: The Novel and the Legend: A Study of Bram Stoker's Gothic Masterpiece_. Aquarian Press, 1985. ISBN: 9780850303834. {{% resource_link 90e969fe-d4ca-5262-2106-546df6a76220 "Leatherdale Reading Guide." %}}
 
-Rondina, Christopher. _Vampires of New England_. On Cape Publications, 2007. ISBN: 9780978576646. [Rondina Reading Guide.]({{< baseurl >}}/pages/readings/rondina-reading-guide)
+Rondina, Christopher. _Vampires of New England_. On Cape Publications, 2007. ISBN: 9780978576646. {{% resource_link c6670817-230a-fea3-0c82-7cfc9b12ae6c "Rondina Reading Guide." %}}
 
-McClelland, Bruce. _Slayers and their Vampires: A Cultural History of Killing the Dead_. University of Michigan Press, 2006. ISBN: 9780472069231. [McClelland Reading Guide.]({{< baseurl >}}/pages/readings/mcclelland-reading-guide)
+McClelland, Bruce. _Slayers and their Vampires: A Cultural History of Killing the Dead_. University of Michigan Press, 2006. ISBN: 9780472069231. {{% resource_link e5852837-33ff-1a27-edcd-9f9a0ee96e3f "McClelland Reading Guide." %}}
 
 Taylor, Aaron. "[It Is the Eve of St. George's Day](http://logismoitouaaron.blogspot.com/2009/05/it-is-eve-of-st-georges-day.html)." Logismoi, 2009.
 
@@ -219,7 +224,7 @@ _Dracula_
 {{< tdopen >}}
 
 
-[Dracula Reading Guide]({{< baseurl >}}/pages/readings/dracula-notes)
+{{% resource_link b946d98d-dd87-61b8-56a0-e8e3c7568a77 "Dracula Reading Guide" %}}
 
 Outline of Freud's basic ideas which will be useful when we come to the reception of _Dracula_.
 
@@ -258,9 +263,9 @@ Article from the Scientific American.
 
 *   Johnson, Eric Michael. "[A Natural History of Vampires](https://blogs.scientificamerican.com/primate-diaries/a-natural-history-of-vampires/)." Scientific American, 2011.
 
-Hallab, Mary. _Vampire God: The Allure of the Undead in Western Culture_. State University of New York Press, 2009. [Hallab Reading Guide.]({{< baseurl >}}/pages/readings/hallab-reading-guide) ISBN: 9781438428604.
+Hallab, Mary. _Vampire God: The Allure of the Undead in Western Culture_. State University of New York Press, 2009. {{% resource_link 90db2e10-7287-7975-5118-f073b49c6ec2 "Hallab Reading Guide." %}} ISBN: 9781438428604.
 
-Auerbach, Nina. _Our Vampires, Ourselves_. University of Chicago Press, 1997. [Auerbach Reading Guide]({{< baseurl >}}/pages/readings/auerbach-reading-guide). ISBN: 9780226032023.
+Auerbach, Nina. _Our Vampires, Ourselves_. University of Chicago Press, 1997. {{% resource_link b6970746-ad39-ea6e-7a8d-f47efa8028e6 "Auerbach Reading Guide" %}}. ISBN: 9780226032023.
 
 
 {{< tdclose >}}
@@ -279,7 +284,7 @@ Lord Byron
 
 McGann, Jerome. "[Byron, George Gordon Noel](https://doi.org/10.1093/ref:odnb/4279)." Oxford Dictionary of National Biography, 2015.
 
-[Extract from Lord Byron's _The Giaour_]({{< baseurl >}}/pages/readings/the-giaour)
+{{% resource_link 77e462c2-00f0-3e34-fcbf-e2de0c17db1c "Extract from Lord Byron's _The Giaour_" %}}
 
 
 {{< tdclose >}}
@@ -296,9 +301,9 @@ Concepts
 {{< tdopen >}}
 
 
-[Literary Modernism: A Brief Guide]({{< baseurl >}}/pages/readings/literary-modernism)
+{{% resource_link 5b644de9-43e7-17ac-a618-c6e1e174c05d "Literary Modernism: A Brief Guide" %}}
 
-[Popular Culture: Some Definitions]({{< baseurl >}}/pages/readings/popular-culture)
+{{% resource_link 9f6f1e8e-95c8-14fa-3b62-b1a8da54fa0b "Popular Culture: Some Definitions" %}}
 
 
 {{< tdclose >}}

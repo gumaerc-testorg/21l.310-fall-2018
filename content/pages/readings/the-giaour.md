@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: An extract from Lord Byron's "The Giaour."
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
 title: The Giaour
 uid: 77e462c2-00f0-3e34-fcbf-e2de0c17db1c

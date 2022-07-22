@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'Reading guide for Mary Hallab''s Vampire God: The Allure of the Undead
+  in Western Culture.'
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
 title: Hallab Reading Guide
 uid: 90db2e10-7287-7975-5118-f073b49c6ec2

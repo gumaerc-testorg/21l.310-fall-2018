@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Calendar with session topics and key dates for 21L.310 Bestsellers:
+  Out for the Count. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ad49a49c-14a3-941c-c6f8-7f30f86ef182
 ---

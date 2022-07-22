@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'Class notes discussing some of the things we have meant when using the
+  innocent-seeming term "popular culture."     '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
 title: Popular Culture
 uid: 9f6f1e8e-95c8-14fa-3b62-b1a8da54fa0b

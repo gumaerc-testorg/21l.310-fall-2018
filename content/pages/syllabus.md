@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Syllabus and course description for 21L.310 Bestsellers: Out for the
+  Count. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fda12603-0a04-cdde-2a60-3ddfb55bc0a3
 ---

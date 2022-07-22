@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'Reading guide for Bruce McClelland''s Slayers and their Vampires: A
+  Cultural History of Killing the Dead.'
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
 title: McClelland Reading Guide
 uid: e5852837-33ff-1a27-edcd-9f9a0ee96e3f

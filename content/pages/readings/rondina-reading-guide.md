@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: Reading guide for Christopher Rondina's Vampires of New England.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
 title: Rondina Reading Guide
 uid: c6670817-230a-fea3-0c82-7cfc9b12ae6c
