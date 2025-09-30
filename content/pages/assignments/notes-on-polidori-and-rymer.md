@@ -11,7 +11,7 @@ title: Notes on Polidori and Rymer
 uid: f5a83161-56c0-1975-02c9-e92be3dac839
 ---
 
-Polidori, John. "[The Vampyre](https://www.gutenberg.org/files/6087/6087-h/6087-h.htm)." In _Penguin Book of Vampire Stories_. Edited by Alan Ryan. Penguin, 1989. ISBN: 9780140124453.
+Polidori, John. "{{% resource_link "b0b2e8ac-19be-4749-b3ea-f0e38b5f1430" "The Vampyre" %}}." In _Penguin Book of Vampire Stories_. Edited by Alan Ryan. Penguin, 1989. ISBN: 9780140124453.
 
  Auerbach, Nina. _Our Vampires, Ourselves_. University of Chicago Press, 1997. {{% resource_link b6970746-ad39-ea6e-7a8d-f47efa8028e6 "Auerbach Reading Guide" %}}. ISBN: 9780226032023.
 

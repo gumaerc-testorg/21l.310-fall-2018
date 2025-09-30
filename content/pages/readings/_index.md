@@ -54,9 +54,9 @@ Rondina, Christopher. _Vampires of New England_. On Cape Publications, 2007. ISB
 
 McClelland, Bruce. _Slayers and their Vampires: A Cultural History of Killing the Dead_. University of Michigan Press, 2006. ISBN: 9780472069231. {{% resource_link e5852837-33ff-1a27-edcd-9f9a0ee96e3f "McClelland Reading Guide." %}}
 
-Taylor, Aaron. "[It Is the Eve of St. George's Day](http://logismoitouaaron.blogspot.com/2009/05/it-is-eve-of-st-georges-day.html)." Logismoi, 2009.
+Taylor, Aaron. "{{% resource_link "a1283b19-e186-473e-bca1-0e6f3abdaa54" "It Is the Eve of St. George's Day" %}}." Logismoi, 2009.
 
-Calmet, Augustin. _[The Phantom World; or, The Philosophy of Spirits, Apparations, &c. &c](http://www.gutenberg.org/files/29412/29412-h/29412-h.htm)_. Edited by Henry Christmas. Project Gutenberg, 2008. 
+Calmet, Augustin. _{{% resource_link "c70d1447-7f74-4f71-a814-3957f4779170" "The Phantom World; or, The Philosophy of Spirits, Apparations, &c. &c" %}}_. Edited by Henry Christmas. Project Gutenberg, 2008. 
 
 
 {{< tdclose >}}
@@ -71,7 +71,7 @@ Calmet, Augustin. _[The Phantom World; or, The Philosophy of Spirits, Apparation
 
 Lord Byron. "Fragment of a Novel." In \[VS\] pp. 1–6.
 
-Tieck, Johann Ludwig. _[Wake Not the Dead](http://doyleandmacdonald.com/l_wakeno.htm)_. Dodo Press, 2008. ISBN: 9781406539295.
+Tieck, Johann Ludwig. _{{% resource_link "acc73df4-fbc5-438e-9fd8-48bfc0aadd68" "Wake Not the Dead" %}}_. Dodo Press, 2008. ISBN: 9781406539295.
 
 
 {{< tdclose >}}
@@ -84,7 +84,7 @@ Tieck, Johann Ludwig. _[Wake Not the Dead](http://doyleandmacdonald.com/l_wakeno
 {{< tdopen >}}
 
 
-Polidori, John. "[The Vampyre](https://www.gutenberg.org/files/6087/6087-h/6087-h.htm)." In \[VS\] pp. 7–24.
+Polidori, John. "{{% resource_link "b0b2e8ac-19be-4749-b3ea-f0e38b5f1430" "The Vampyre" %}}." In \[VS\] pp. 7–24.
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ Polidori, John. "[The Vampyre](https://www.gutenberg.org/files/6087/6087-h/6087-
 
 Rymer, James Malcom. _Varney the Vampire (excerpt)_. In \[VS\] pp. 25–35. 
 
-Rymer, James Malcom. _[Varney the Vampire (additional chapters IV, V, and XL)](http://www.gutenberg.org/files/14833/14833-h/14833-h.htm)_. Project Gutenberg, 2005.
+Rymer, James Malcom. _{{% resource_link "69fcd74a-e807-4b8d-b574-707afbbfe5e6" "Varney the Vampire (additional chapters IV, V, and XL)" %}}_. Project Gutenberg, 2005.
 
 "The Mysterious Stranger." In \[VS\] pp. 36–70.
 
@@ -114,7 +114,7 @@ Rymer, James Malcom. _[Varney the Vampire (additional chapters IV, V, and XL)](h
 {{< tdopen >}}
 
 
-Le Fanu, J. Sheridan. _[Carmilla](https://www.gutenberg.org/files/10007/10007-h/10007-h.htm)_. CreateSpace, 2008. Ch. 1–10. ISBN: 9781441436313.
+Le Fanu, J. Sheridan. _{{% resource_link "6d35a8fe-0fae-4a6b-b86b-05e648f4835b" "Carmilla" %}}_. CreateSpace, 2008. Ch. 1–10. ISBN: 9781441436313.
 
 
 {{< tdclose >}}
@@ -127,7 +127,7 @@ Le Fanu, J. Sheridan. _[Carmilla](https://www.gutenberg.org/files/10007/10007-h/
 {{< tdopen >}}
 
 
-Le Fanu, J. Sheridan. _[Carmilla](https://www.gutenberg.org/files/10007/10007-h/10007-h.htm)_. CreateSpace, 2008. Ch. 11–16. ISBN: 9781441436313.
+Le Fanu, J. Sheridan. _{{% resource_link "6d35a8fe-0fae-4a6b-b86b-05e648f4835b" "Carmilla" %}}_. CreateSpace, 2008. Ch. 11–16. ISBN: 9781441436313.
 
 
 {{< tdclose >}}
@@ -228,11 +228,11 @@ _Dracula_
 
 Outline of Freud's basic ideas which will be useful when we come to the reception of _Dracula_.
 
-*   McLeod, Saul. "[What Are the Most Interesting Ideas of Sigmund Freud?](https://www.simplypsychology.org/Sigmund-Freud.html)" Simply Psychology, 2018.
+*   McLeod, Saul. "{{% resource_link "c9789912-d8d3-476b-acf9-ee430bd474da" "What Are the Most Interesting Ideas of Sigmund Freud?" %}}" Simply Psychology, 2018.
 
 The best overall account of Freud, sober and well informed, and dealing with every aspect of his life and theories is to be found on The Victorian Web.
 
-*   "[Sigmund Freud](http://www.victorianweb.org/science/freud/)." The Victorian Web, 2016.
+*   "{{% resource_link "e0194b0f-4a30-41dc-9699-12f96e98fb4f" "Sigmund Freud" %}}." The Victorian Web, 2016.
 
 Browning, John Edgar. _Bram Stoker's Dracula: The Critical Feast, An Annotated Reference of Early Reviews & Reactions, 1897–1913_. Apocryphile Press, 2011. ISBN: 9781937002213.
 
@@ -253,15 +253,15 @@ The Vampire Trope: The Larger Picture
 
 The fullest and most up-to-date account I know of the investigation of vampire phenomena in early eighteenth century Austro-Hungary, and how such ideas were diffused amongst the intelligentsia in the West. 
 
-*   Bräunlein, Peter J. "[The Frightening Borderlands of Enlightenment: The Vampire Problem](https://www.sciencedirect.com/science/article/pii/S1369848612000313)." _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 43, no. 3 (2012): 710–719.
+*   Bräunlein, Peter J. "{{% resource_link "2f766c72-9e0e-4514-9996-8cd024723b1a" "The Frightening Borderlands of Enlightenment: The Vampire Problem" %}}." _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 43, no. 3 (2012): 710–719.
 
 Psychoanalytical schools have been much interested in vampires; here is a summary of what the followers of Freud and Jung have made of the phenomenon. 
 
-*   "[Psychological Perspectives on Vampire Mythology](http://www.gutenberg.org/files/14833/14833-h/14833-h.htm)." _The Vampire Book_, 2nd ed. Visible Ink Press, 2011.
+*   "{{% resource_link "69fcd74a-e807-4b8d-b574-707afbbfe5e6" "Psychological Perspectives on Vampire Mythology" %}}." _The Vampire Book_, 2nd ed. Visible Ink Press, 2011.
 
 Article from the Scientific American.
 
-*   Johnson, Eric Michael. "[A Natural History of Vampires](https://blogs.scientificamerican.com/primate-diaries/a-natural-history-of-vampires/)." Scientific American, 2011.
+*   Johnson, Eric Michael. "{{% resource_link "d6a53ad7-2f71-48df-b21c-f658886b123a" "A Natural History of Vampires" %}}." Scientific American, 2011.
 
 Hallab, Mary. _Vampire God: The Allure of the Undead in Western Culture_. State University of New York Press, 2009. {{% resource_link 90db2e10-7287-7975-5118-f073b49c6ec2 "Hallab Reading Guide." %}} ISBN: 9781438428604.
 
@@ -282,7 +282,7 @@ Lord Byron
 {{< tdopen >}}
 
 
-McGann, Jerome. "[Byron, George Gordon Noel](https://doi.org/10.1093/ref:odnb/4279)." Oxford Dictionary of National Biography, 2015.
+McGann, Jerome. "{{% resource_link "79711b99-30ba-4f82-b56d-419feee7ea04" "Byron, George Gordon Noel" %}}." Oxford Dictionary of National Biography, 2015.
 
 {{% resource_link 77e462c2-00f0-3e34-fcbf-e2de0c17db1c "Extract from Lord Byron's _The Giaour_" %}}
 
